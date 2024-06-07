@@ -1,0 +1,14 @@
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.AssemblyInfoInputs.cache
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.AssemblyInfo.cs
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.csproj.CoreCompileInputs.cache
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\bin\Debug\net8.0\Task7_3D.exe
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\bin\Debug\net8.0\Task7_3D.deps.json
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\bin\Debug\net8.0\Task7_3D.runtimeconfig.json
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\bin\Debug\net8.0\Task7_3D.dll
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\bin\Debug\net8.0\Task7_3D.pdb
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.dll
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\refint\Task7_3D.dll
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.pdb
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\Task7_3D.genruntimeconfig.cache
+C:\Users\Sunil\Documents\Code\SIT771\Task7.3D\obj\Debug\net8.0\ref\Task7_3D.dll
